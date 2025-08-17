@@ -1,1 +1,1 @@
-# Web-scraper-
+web scraper is a software tool, often a bot, that automatically extracts data from websites. It accesses web pages, retrieves the content, and then extracts specific information based on user-defined rules. This extracted data can be used for various purposes, such as market research, price monitoring, or data analysis.
